@@ -1,0 +1,25 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "一个 Node.js 的服务端项目",
+  "keywords": [
+    "backend",
+    "server",
+    "node",
+    "js"
+  ],
+  "author": "wudajian",
+  "license": "MIT",
+  "main": "app.js",
+  "homepage": "https://github.com/DaJianWu/node-server#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaJianWu/node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaJianWu/node-server/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
