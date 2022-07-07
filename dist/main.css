@@ -1,0 +1,39 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.app{
+  width: 100%;
+  height: 100%;
+}
+
+.app > section {
+  height: 100%;
+}
+.app > section header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.app > section > section aside .ant-layout-sider-trigger {
+  bottom: 70px;
+}
+.app > section > section > section {
+  padding: 0 24px 24px;
+}
+.app > section > section > section .ant-breadcrumb {
+  margin: 16px 0;
+}
+.app > section > section > section main {
+  padding: 24px;
+  background-color: #fff;
+}
+.app > section footer {
+  text-align: center;
+  color: #fff;
+  background: #001529;
+}
+
+.waReIYJiq2kuhuPovUn9 .GUfY10N5mkUp1VlxcIgz{color:pink}
+.dXqUQbbQYwd3IHBSpXid{width:100%;height:100%}
